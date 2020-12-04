@@ -7,8 +7,13 @@ namespace advent_of_code
     {
         static void Main(string[] args)
         {
-            // DayOne dayOneCode = new DayOne();
-            // dayOneCode.PartTwo();
+            DayOne dayOneCode = new DayOne();
+            dayOneCode.PartOne();
+            dayOneCode.PartTwo();
+
+
+            DayTwo dayTwoCode = new DayTwo();
+            dayTwoCode.PartOne();
 
         }
     }
