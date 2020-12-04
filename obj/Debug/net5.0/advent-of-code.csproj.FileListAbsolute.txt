@@ -1,0 +1,16 @@
+C:\Users\Ember\workspace\advent-of-code\obj\Debug\net5.0\advent-of-code.csprojAssemblyReference.cache
+C:\Users\Ember\workspace\advent-of-code\obj\Debug\net5.0\advent-of-code.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ember\workspace\advent-of-code\obj\Debug\net5.0\advent-of-code.AssemblyInfoInputs.cache
+C:\Users\Ember\workspace\advent-of-code\obj\Debug\net5.0\advent-of-code.AssemblyInfo.cs
+C:\Users\Ember\workspace\advent-of-code\obj\Debug\net5.0\advent-of-code.csproj.CoreCompileInputs.cache
+C:\Users\Ember\workspace\advent-of-code\bin\Debug\net5.0\advent-of-code.exe
+C:\Users\Ember\workspace\advent-of-code\bin\Debug\net5.0\advent-of-code.deps.json
+C:\Users\Ember\workspace\advent-of-code\bin\Debug\net5.0\advent-of-code.runtimeconfig.json
+C:\Users\Ember\workspace\advent-of-code\bin\Debug\net5.0\advent-of-code.runtimeconfig.dev.json
+C:\Users\Ember\workspace\advent-of-code\bin\Debug\net5.0\advent-of-code.dll
+C:\Users\Ember\workspace\advent-of-code\bin\Debug\net5.0\ref\advent-of-code.dll
+C:\Users\Ember\workspace\advent-of-code\bin\Debug\net5.0\advent-of-code.pdb
+C:\Users\Ember\workspace\advent-of-code\obj\Debug\net5.0\advent-of-code.dll
+C:\Users\Ember\workspace\advent-of-code\obj\Debug\net5.0\ref\advent-of-code.dll
+C:\Users\Ember\workspace\advent-of-code\obj\Debug\net5.0\advent-of-code.pdb
+C:\Users\Ember\workspace\advent-of-code\obj\Debug\net5.0\advent-of-code.genruntimeconfig.cache
